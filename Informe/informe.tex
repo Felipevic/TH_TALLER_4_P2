@@ -189,8 +189,80 @@
 
 \section{Desarrollo}
 
+\subsubsection*{Pregunta 1}
+
+Sea la tabla:
+
+\begin{table}[H]
+\centering
+\caption{Dosificaciones de mezcla para Hormigones 1 y 2}
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{Material} & \textbf{Hormigón 1} & \textbf{Hormigón 2} \\ \hline
+Cemento (kg/m$^3$) & 450 & 350 \\ \hline
+Agua (kg/m$^3$) & 180 & 180 \\ \hline
+Árido Grueso (kg/m$^3$) & 750 & 1050 \\ \hline
+Árido Fino (kg/m$^3$) & 850 & 750 \\ \hline
+Aditivo Reductor de Agua (SP) & 1.25\% & 0.45\% \\ \hline
+\end{tabular}
+\end{table}
+
+Basadondose en la mayor cantidad de arido fino, menor cantidad de arido grueso, asi como un mayor contenido de aditivo reductor de agua, se puede concluir que el Hormigón 1 es el que corresponde a un Hormigón Autocompactante (HAC), mientras que el Hormigón 2 corresponde a un Hormigón Convencional.
+
+Estas diferencias son debido a los requisitos de trabajabilidad y fluidez que debe cumplir un HAC, los cuales se logran mediante:
+
+\begin{itemize}
+  \item Mayor cantidad de árido fino: Esto ayuda a mejorar la cohesión y la fluidez del hormigón.
+  \item Menor cantidad de árido grueso: Esto facilita el flujo del hormigón y reduce la segregación.
+  \item Mayor contenido de aditivo reductor de agua: Esto mejora la trabajabilidad del hormigon sin aumentar la cantidad de agua, lo que es crucial para mantener la resistencia y durabilidad del HAC.
+\end{itemize}
+
+Ahora bien, estos ajustes tienen implicaciones en las propiedades del hormigón en estado endureciado tambien, las cuales son:
+
+\begin{itemize}
+  \item Mayor cantidad de arido fino: Puede aumentar la densidad y reducir la porosidad del hormigón, mejorando su resistencia y durabilidad. 
+  \item Menor cantidad de árido grueso: Se mejora la homogeneidad del hormigón, asi como la interfaz pasta-cemento, lo que resulta en una mejor resistencia.
+  \item \item Mayor contenido de aditivo reductor de agua: Esto puede mejorar la resistencia del hormigón al reducir la relación agua-cemento efectiva, lo que resulta en una matriz más densa y fuerte.
+\end{itemize}
+
+De esta forma, se puede concluir que el HAC es un hormigon que en estado fresco presenta una alta fluidez y trabajabilidad, mientras que en estado endurecido logra una mayor densidad, resistencia y durabilidad en comparación con un hormigón convencional.
+
+\subsection*{Pregunta 2}
+
+Un HAC correctamente elaborado deberia mostrar los siguientes signos:
+
+\begin{itemize}
+  \item Fluidez y Autocompactación: El HAC debe ser capaz de fluir y compactarse por sí mismo bajo su propio peso, llenando los moldes sin necesidad de vibración externa.
+  \item Resistencia a la Segregación: El HAC debe mantener una mezcla homogénea sin que los componentes se separen durante el vertido o en el ensayo de cono invertido o J-Ring.
+  \item Resistencia a la Exudación: El HAC debe evitar la liberación excesiva de agua en la superficie, lo que puede afectar negativamente la calidad del acabado, lo cual se puede evaluar mediante el ensayo de J-Ring.
+\end{itemize}
+
+Estos ensayos son relativamente simples de realizar en obra y proporcionan una buena indicación de si el HAC cumple con los requisitos necesarios para su aplicación.
+
+Segun lo visto en el taller, en el ensayo de cono invertido, un HAC correctamente elaborado deberia mostrar un diametro final mayor a 650 mm, indicando una buena fluidez y capacidad de autocompactación y menor a 800 mm para evitar problemas de segregación.
+
+La siguiente figura muetra la diferencia entre un hormigon extremadamente fluido y uno con una fluidez casi optima (en el taller no se llego a ver un hormigon con fluidez optima en el ensayo de cono invertido, pero se puede observar la diferencia entre uno muy fluido y otro menos fluido).:
 
 
+\begin{figure}[H]
+\centering
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Imagenes/a.png}
+    \caption{HAC con fluidez casi optima.}
+    \label{fig:imagen1}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Imagenes/b.png}
+    \caption{HAC con fluidez extremadamente alta.}
+    \label{fig:imagen2}
+\end{subfigure}
+\label{fig:comparacion}
+\end{figure}
+
+  
 
 %\bibliographystyle{unsrtnat}  % o plainnat
 %\bibliography{ref}  % Nombre del archivo .bib
