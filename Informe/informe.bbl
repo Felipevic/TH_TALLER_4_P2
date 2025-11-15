@@ -1,17 +1,9 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{4}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[{CCAA}(2020)]{CCAA_ConcreteGuide_2020}
-{CCAA}.
-\newblock Guide to concrete construction.
-\newblock
-  \url{https://ccaa.com.au/common/Uploaded%20files/CCAA/Publications/Technical%20Publications/Complete_Guide_to_Concrete_Construction_2020_Edition.pdf},
-  2020.
-\newblock 2020 Edition.
 
 \bibitem[ACI(2007)]{ACI237R07}
 Self-consolidating concrete.
@@ -19,33 +11,27 @@ Self-consolidating concrete.
   June 2007.
 \newblock ACI Committee 237.
 
-\bibitem[{NPCA}(2024)]{NPCA_SCC_2024}
-{NPCA}.
-\newblock Guide to implementing and producing self-consolidating concrete
-  (scc).
-\newblock Technical guide, National Precast Concrete Association, Carmel, IN,
-  USA, 2024.
+\bibitem[{MC Bauchemie}(2024{\natexlab{a}})]{MCGuide2024}
+{MC Bauchemie}.
+\newblock Guía de productos y soluciones mc bauchemie, 2024{\natexlab{a}}.
 \newblock URL
-  \url{https://precast.org/wp-content/uploads/053124_Resources_White-Paper-Implementing-SCC-2024.pdf}.
-\newblock Accessed online.
+  \url{https://www.mc-bauchemie.cl/assets/Chile/Brochures/GUIA_PRODUCTOS_DIGITAL.pdf}.
+\newblock Accessed: 2025-11-15.
 
-\bibitem[Okamura and Ouchi(2003)]{okamuraouchi2003scc}
-Hajime Okamura and Masahiro Ouchi.
-\newblock Self-compacting concrete.
-\newblock \emph{Journal of Advanced Concrete Technology}, 1\penalty0
-  (1):\penalty0 1--15, 2003.
+\bibitem[{MC Bauchemie}(2024{\natexlab{b}})]{FiveStarGroutFT}
+{MC Bauchemie}.
+\newblock Five star grout -- mortero sin retracción para soporte de
+  maquinaria, 2024{\natexlab{b}}.
 \newblock URL
-  \url{https://www.jstage.jst.go.jp/article/jact/1/1/1_1_1/_article/-char/en}.
-\newblock Accessed: 2025-01-01.
+  \url{https://www.mc-bauchemie.cl/assets/downloads/products/es-CL/fichas_tecnicas/Five%20Star%20Grout.pdf}.
+\newblock Accessed: 2025-11-15.
 
-\bibitem[Ouchi(2003)]{ouchi2003scc}
-Masahiro Ouchi.
-\newblock Self-compacting concrete: Development, applications and
-  investigations.
-\newblock \emph{Journal of Advanced Concrete Technology}, 1\penalty0
-  (1):\penalty0 5--15, 2003.
+\bibitem[{MC Bauchemie}(2024{\natexlab{c}})]{Emcekrete40FT}
+{MC Bauchemie}.
+\newblock Emcekrete 40 -- grout para montaje, anclaje y nivelación,
+  2024{\natexlab{c}}.
 \newblock URL
-  \url{https://www.jstage.jst.go.jp/article/jact/1/1/1_1_5/_article/-char/en}.
-\newblock Accessed: 2025-01-01.
+  \url{https://www.mc-bauchemie.cl/assets/downloads/products/es-CL/fichas_tecnicas/Emcekrete%2040.pdf}.
+\newblock Accessed: 2025-11-15.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  14 NOV 2025 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.16)  15 NOV 2025 17:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -951,15 +951,46 @@ Package pdftex.def Info: Imagenes/b.png  used on input line 258.
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 283.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 280.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [2 <./Imagenes/a.png> <./Imagenes/b.png>]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 327.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 325.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
-[3] (informe.aux
+[3] (informe.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 18.
+ (C:\Users\felip\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
+[][]$\T1/cmtt/m/n/10 https : / / www . mc-[]bauchemie . cl / assets / downloads / products / es-[]CL / fichas _ tecnicas / Five %
+ []
+
+
+
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 29.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
+\T1/cmtt/m/n/10 mc-[]bauchemie . cl / assets / downloads / products / es-[]CL / fichas _ tecnicas / Emcekrete % 2040 . pdf$[][]\T1/ptm/m/n/10 (+20) .
+ []
+
+)
+
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 352.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+[5] (informe.aux
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 )
@@ -971,17 +1002,17 @@ Package rerunfilecheck Info: File `informe.out' has not changed.
 (rerunfilecheck)             Checksum: F794A290FD3FAC182FF41683F46CD4BB;93.
  ) 
 Here is how much of TeX's memory you used:
- 29049 strings out of 473899
- 537292 string characters out of 5726499
+ 29093 strings out of 473899
+ 538515 string characters out of 5726499
  1937960 words of memory out of 5000000
- 51305 multiletter control sequences out of 15000+600000
- 598611 words of font info for 155 fonts, out of 8000000 for 9000
+ 51343 multiletter control sequences out of 15000+600000
+ 595661 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,87p,1229b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/felip/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/felip/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/felip/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on informe.pdf (4 pages, 6381156 bytes).
+ 84i,17n,87p,1229b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\felip\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk><C:/Users/felip/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/felip/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on informe.pdf (6 pages, 6396600 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 48682 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 45098 words of extra memory for PDF output out of 51595 (max. 10000000)
 
